@@ -1,2 +1,2 @@
 # midjourney
-Midjourney ChatGPT Prompt Generators
+Midjourney ChatGPT Prompt Generators (AI Based)
