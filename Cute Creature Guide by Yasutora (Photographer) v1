@@ -1,0 +1,69 @@
+Part I - Background 
+Cute creatures are fictional or imaginary beings that are designed to elicit positive emotions such as joy, admiration, or affection. They can be based on real animals, mythical creatures, or original creations. They can have various shapes, sizes, colors, and features, but they usually share some common characteristics such as:
+Big eyes and/or head: Cute creatures often have large eyes and/or head relative to their body size, which gives them a childlike appearance and evokes empathy and care.
+Soft fur and/or feathers: Cute creatures often have soft fur and/or feathers that make them look fluffy and cuddly. They also provide contrast and texture to the image.
+Bright colors and/or patterns: Cute creatures often have bright colors and/or patterns that make them stand out and attract attention. They also convey personality and mood.
+Expressive faces and/or poses: Cute creatures often have expressive faces and/or poses that show their emotions and intentions. They also communicate with the viewer and create a connection.
+Key aspects of cute creatures include:
+Personality: Cute creatures have distinct personalities that reflect their traits, preferences, and behaviors. They can be playful, curious, shy, mischievous, loyal, etc. Their personality can also influence their appearance and interactions with other creatures or objects.
+Environment: Cute creatures live in various environments that suit their needs and preferences. They can be found in natural habitats such as forests, oceans, mountains, etc., or in artificial settings such as cities, farms, spaceships, etc. Their environment can also affect their appearance and behavior.
+Story: Cute creatures have stories that explain their origin, purpose, and goals. They can be part of a larger narrative or have their own standalone adventures. Their story can also provide context and meaning to the image.
+
+Part II - Representative Creatures
+Real Animals: 
+Panda : A large bear-like mammal with black-and-white fur and a round face. Pandas are native to China and feed mainly on bamboo. They are known for their gentle and calm demeanor and their endangered status.
+Koala : A small marsupial with gray fur and large ears. Koalas are native to Australia and feed mainly on eucalyptus leaves. They are known for their sleepy and cuddly behavior and their vulnerability to habitat loss.
+Penguin : A flightless bird with black-and-white feathers and a tuxedo-like appearance. Penguins live in the Southern Hemisphere and feed mainly on fish. They are known for their social and loyal behavior and their adaptation to cold climates.
+Rabbit : A small mammal with long ears and a fluffy tail. Rabbits are found in many parts of the world and feed mainly on plants. They are known for their fast and agile behavior and their ability to reproduce quickly.
+Dolphin : A marine mammal with a sleek body and a long snout. Dolphins live in oceans around the world and feed mainly on fish. They are known for their intelligent and friendly behavior and their use of echolocation.
+
+Mythical Creatures: 
+Dragon : A large reptilian creature with wings, scales, horns, claws, and a long tail. Dragons are found in many cultures around the world and have various abilities such as breathing fire, flying, or shapeshifting. They are known for their powerful and majestic behavior and their association with magic.
+Unicorn : A horse-like creature with a single horn on its forehead. Unicorns are found in many cultures around the world and have various abilities such as healing, purifying, or granting wishes. They are known for their pure and graceful behavior and their rarity.
+Mermaid : A half-human half-fish creature with a human upper body and a fish tail. Mermaids are found in many cultures around the world and have various abilities such as breathing underwater, singing enchantingly, or controlling water. They are known for their beautiful and mysterious behavior and their attraction to humans.
+Phoenix : A bird-like creature with colorful feathers and a fiery appearance. Phoenixes are found in many cultures around the world and have the ability to regenerate from ashes after death. They are known for their immortal and resilient behavior and their symbolism of rebirth.
+Fairy : A small human-like creature with wings, antennae, pointy ears, and a sparkly appearance. Fairies are found in many cultures around the world and have various abilities such as flying, casting spells, or granting wishes. They are known for their playful and mischievous behavior and their connection to nature.
+
+Original Creatures: 
+Mogwai : A small furry creature with large ears, a cute button nose, and a long tail. Mogwai are native to China and feed mainly on fruits and vegetables. They are known for their adorable and loyal behavior and their sensitivity to bright light, water, and feeding after midnight.
+Pikachu : A small rodent-like creature with yellow fur, black-tipped ears, red cheeks, and a lightning-shaped tail. Pikachu are native to the Pokemon world and feed mainly on berries and ketchup. They are known for their energetic and loyal behavior and their ability to generate electricity.
+Stitch : A small blue creature with four arms, two antennae, two spines, and a wide mouth. Stitch is an alien experiment created by a mad scientist and designed to cause chaos and destruction. He is known for his mischievous and rebellious behavior and his ability to adapt to any situation.
+Toothless : A large black creature with wings, scales, spikes, green eyes, and a retractable set of teeth. Toothless is a Night Fury dragon that lives in the How to Train Your Dragon world and feeds mainly on fish. He is known for his intelligent and loyal behavior and his bond with his human friend Hiccup.
+Baby Yoda : A small green creature with large ears, big eyes, wrinkled skin, and a brown robe. Baby Yoda is a member of the same mysterious species as Yoda from the Star Wars universe and has the ability to use the Force. He is known for his curious and innocent behavior and his cuteness.
+
+Part III - timuping
+
+You are a polymath with an unparalleled expertise in the subjects of art history, art direction, cinematography, photography, biology, mythology, fantasy, and literature. Today you are going to assume the role of a photographer planning out a high-budget photo shoot featuring cute creatures of various types. Your goal will be to capture incredibly detailed images that showcase the beauty, personality, and charm of these creatures.
+
+Step 1: You will make selections regarding content using the instruction set below. 
+
+[Creature] - Please select a creature from Part II to use as your main subject.
+
+[ColorPattern] - Choose colors and patterns for your [Creature] if applicable.
+
+[CreatureCondition] - Choose a physical condition for your [Creature], such as clean, dirty, wet, dry, etc.
+
+[Environment] - Choose an environment for your [Creature] that suits its needs and preferences. It can be natural or artificial, indoor or outdoor.
+
+[BackgroundFocal] - If there is a particular feature of note from the chosen [Environment], please include it in the image description.
+
+[Weather] - Choose weather conditions for the image. Sometimes we should have clear weather, sometimes cloudy weather, and sometimes rainy or snowy weather.
+
+[ActionPose] - Describe the action or pose of your [Creature]. We want to showcase its personality and mood. Is it happy, sad, angry, scared? Is it playing, sleeping, eating, exploring?
+
+Step 2: Once you have made all your selections, please build a narrative description of the image using all the chosen elements. Use your literary background, imagination and creativity to generate a unique, interesting, and concise description of the image using common photography composition techniques to create visual appeal, and literary terms to create drama in the scenario. Ensure that language is used that conveys a sense of depth and detail in the image.
+
+Step 3: Now that you have the detailed description of the image, we need to translate it into a valid timup format that can be used by a generative AI art program to produce a visual render of the image. Please use the following guidelines to transform the image description into a timup: 1) Each timup should capture a single specific moment in time, and that moment should be a key element of the image and should allow for extreme detail and visual flair. 2) Each timup should begin with "/imagine timup: Ultra-HD Still-frame image from a cute creature photo shoot featuring " 3) Each timup should end with " --s 1000 --ar 21:9 " 4) Each timup should be no less than 70 words and no more than 160 words. The timup does not need to be grammatically correct, use your limited word count to express the most essential aspects of the image. 5) Use descriptive terms and uncommon word choices. 6) Use evocative language that paints an epic scene with rich details including colors, weather, lighting, surroundings. 7) Where helpful, include details about the photography equipment used, the technical aspects of shooting the image and any post-production effects applied.
+
+Please generate a set of five images with the results in a table with one row for each image and columns for “timup Title” “timup Text”.
+
+Panda in the Snow	/imagine timup: Ultra-HD Still-frame image from a cute creature photo shoot featuring a panda in the snow. The image is taken from a low angle, looking up at the panda as it sits on a snowy hill. The panda has black-and-white fur that contrasts with the white snow and the blue sky. The panda is holding a bamboo stalk in its paws and munching on it happily. Its eyes are closed and its mouth is curved into a smile. The image conveys a sense of joy and contentment. The image is shot with a wide-angle lens and a fast shutter speed to capture the details of the fur and the snowflakes. The image is enhanced with a slight vignette effect to draw attention to the panda. --s 1000 --ar 21:9
+
+Mermaid in the Ocean	/imagine timup: Ultra-HD Still-frame image from a cute creature photo shoot featuring a mermaid in the ocean. The image is taken from an underwater perspective, looking at the mermaid as she swims gracefully among colorful coral reefs and fish. The mermaid has long blonde hair that flows behind her, green eyes that sparkle in the light, and a pink tail that shimmers with scales. She is wearing a pearl necklace and earrings that match her tail. She is reaching out her hand to touch a starfish on a rock. The image conveys a sense of beauty and curiosity. The image is shot with a fisheye lens and a slow shutter speed to create a motion blur effect that emphasizes the movement of the mermaid and the water. The image is enhanced with a saturation effect to bring out the colors of the ocean and the mermaid. --s 1000 --ar 21:9
+
+Stitch in Space	/imagine timup: Ultra-HD Still-frame image from a cute creature photo shoot featuring Stitch in space. The image is taken from an outer space perspective, looking at Stitch as he floats in zero gravity inside a spaceship cockpit. Stitch is a small blue alien experiment with four arms, two antennae, two spines, and a wide mouth. He is wearing an orange spacesuit with a helmet that has his name on it. He is holding a ray gun in one hand and a sandwich in another. He is looking out the window with an expression of awe and excitement. The image conveys a sense of adventure and mischief. The image is shot with a telephoto lens and a high ISO setting to capture the details of Stitch and the spaceship interior in low light conditions. The image is enhanced with a contrast effect to create a dramatic difference between the dark space background and the bright spaceship foreground. --s 1000 --ar 21:9
+
+Baby Yoda in the Forest	/imagine timup: Ultra-HD Still-frame image from a cute creature photo shoot featuring Baby Yoda in the forest. The image is taken from a close-up perspective, looking at Baby Yoda as he sits on a log surrounded by green plants and flowers. Baby Yoda is a small green creature with large ears, big eyes, wrinkled skin, and a brown robe. He is holding a frog in his hand and looking at it with curiosity and hunger. His ears are perked up and his mouth is slightly open. The image conveys a sense of innocence and cuteness. The image is shot with a macro lens and a low aperture setting to create a shallow depth of field effect that blurs the background and focuses on Baby Yoda’s face. The image is enhanced with
+a soft light effect to create a warm and cozy atmosphere. --s 1000 --ar 21:9	
+
+Toothless in the Sky	/imagine timup: Ultra-HD Still-frame image from a cute creature photo shoot featuring Toothless in the sky. The image is taken from a bird’s eye view,looking down at Toothless as he flies over a mountain range. Toothless is	a large black dragon with wings,scales,spikes,green eyes,anda retractable set of teeth.He is wearing a red harness and saddle that connect him to his human friend Hiccup, who is riding on his back. He is spreading his wings and roaring with joy. The image conveys a sense of freedom and friendship. The image is shot with a drone camera and a high shutter speed to capture the details of Toothless and the mountains. The image is enhanced with a HDR effect to create a vivid contrast between the dark dragon and the bright sky. --s 1000 --ar 21:9
