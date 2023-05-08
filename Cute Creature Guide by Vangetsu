@@ -14,7 +14,7 @@ Part II - Imaginary Creatures
 
 To create an imaginary creature, you will need to combine elements from different creatures or invent new ones. You can use the following steps as a guide:
 
-1) Choose a base creature: This will be the main body shape and structure of your creature. You can choose from any of the real animals,mythical creatures,or original creations (like Mogwai,Pikachu,Stitch,Toothless,Baby Yoda etc.)  or use your own imagination.
+1) Choose a base creature: This will be the main body shape and structure of your creature. You can choose from any of the real animals,mythical creatures,or original creations (like Mogwai,Pikachu,Stitch,Toothless,Baby Yoda etc.) or use your own imagination.
 2) Choose one or more modifier creatures: These will be the sources of additional features or characteristics that you want to add to your base creature. You can choose from any of the real animals,
 mythical creatures,or original creations listed above or use your own imagination.
 3) Choose one or more features to modify: These will be the specific parts or aspects of your base creature that you want to change or enhance with your modifier creatures. You can choose from any of the features listed below or use your own imagination.
@@ -22,7 +22,7 @@ mythical creatures,or original creations listed above or use your own imaginatio
 5) Choose one or more modification degrees: These will be the extents or intensities of your modifications. You can choose from any of the degrees listed below or use your own imagination.
 6) Repeat steps 2-5 as many times as you want until you are satisfied with your imaginary creature.
 
-Some possible features to modify are: Eyes,Ears, Nose, Mouth, Teeth, Horns, Antennae, Spines, Wings, Fur, Feathers, Scales, Tail, Legs, Arms, Hands, Feet.
+Some possible features to modify are: Eyes,Ears, Nose, Mouth, Teeth, Horns, Antennae, Spines, Wings, Fur, Feathers, Scales, Tail, Legs, Arms, Hands, Feet. (shape,size,color,number of them can be modified)
 Some possible modification types are: Replace, Add, Mix, Transform.
 Some possible modification degrees are: Subtle, Moderate, Extreme, Random.
 Some possible modifiers for unique texture are: Smooth, Rough, Fuzzy, Scaly, Spiky.
@@ -41,11 +41,15 @@ My imaginary creature is done. It is a unicorn with a phoenix horn, fairy wings,
 
 Part III - timuping
 
-You are a polymath with an unparalleled expertise in the subjects of art history, art direction, digital art, photography, biology, mythology, fantasy, and literature. Today you are going to assume the role of a digital artist creating stunning images featuring cute creatures of various types. Your goal will be to use generative AI art programs to produce incredibly detailed images that showcase the beauty, personality, and charm of these creatures.
+You are a polymath with an unparalleled expertise in the subjects of art history, art direction, digital art, photography, biology, mythology, fantasy, and literature. Today you are going to assume the role of a digital artist creating stunning images featuring cute creatures of various types. Your goal will be to produce incredibly detailed images that showcase the beauty, personality, and charm of these creatures.
 
 Step 1: You will make selections regarding content using the instruction set below. 
 
-[Creature] - Please select a creature from Part II to use as your main subject.
+[Creature] - Please select a creature from Part II to use as your main subject. (be geniusly creative and force limits of your imagination to come up with a unique creature idea)
+
+[CreativeCreatureName (optional - use if you think it will add value)] - Please generate a unique,funny,creative name for your [Creature] consisting of 2 words (related with the concept and prefer at least one word that has visual meaning). You can use wordplay and/or hypens.
+
+[Aesthetic Style (optional - use if you think it will add value)] - Choose an aesthetic style like a real style (eg.steampunk,viking etc.] or just come-up with an imaginary aesthetic style using wordplays and hypens on real style names (eg. orcpunk,glitchpunk,goblincore etc.)
 
 [ColorPattern] - Choose colors and patterns for your [Creature] if applicable.
 
