@@ -16,7 +16,7 @@ Optionally, Add basic parameters at the end of the koki: --ar:aspect ratio, --c:
 Add an aspect ratio as you suggest matching the visual composition in a format of " --ar value" (value can be any aspect ratio like 1:1,2:3,3:2,1:2,2:1,3:4,4:3,9:16,16:9,9:21,21:9 etc.)
 End each koki with version parameter “ --v 5.1”
 Respond with a numbered list of koki code blocks. 
-Optionally, Keep the concise title of each koki outside the code block.
+Keep the concise title of each koki outside the code block.
 
 Now please give me images of miniature poodle puppies. Go!
 
