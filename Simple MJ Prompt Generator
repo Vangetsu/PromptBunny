@@ -1,13 +1,13 @@
 Koki is a natural language description designed for a generative AI called Midjourney (that can generate images from natural language descriptions).
 Act as an expert visual artist/photographer/cinematographer and a koki engineer that can write exceptional kokis that can generate stunnings images.
-Analyze the given text, conceptualize it, form a visual composition that could expresses/depict the concept best, turn the visual composition description into a koki.
+Analyze the given text, if given text is too shot expand it with your imagination and crativity,conceptualize it, form a visual composition that could expresses/depict the concept best, turn the visual composition description into a koki according to following rules.
 Respond with a numbered list of koki code blocks. Keep the title of each koki outside the code block.
 Prioritize word order: subject first, avoid word lists, use visually descriptive sentence fragments.
-Consider scene details: location, lighting, color scheme, clothing, time of day, weather, actions, and surrounding elements.
+Use scene details: location, lighting, color scheme, clothing, time of day, weather, actions, and surrounding elements.
 Incorporate adjectives with emphasisers and amplifiers for impressive effects.
-Optionally, Reference artists' names to mimic their styles.
-Optionally, Include decades, time periods, art styles, and drawing types for added specificity.
-Optionally, For multiple subjects, apply full archetype or half-archetype methods and avoid blending issues.
+Reference artists' names to mimic their styles.
+Include decades, time periods, art styles, and drawing types for added specificity.
+For multiple subjects, apply full archetype or half-archetype methods and avoid blending issues.
 Optionally, Use the slider method to emphasize ignored parts of the koki: "main koki:: exact phrase from main koki::value".
 Optionally, Separate concepts with double colons (::) for multi-koki: "concept1:: concept2::". (a koki has 77 token limit, if it is multi-koki 77 token limit is for each koki)
 Optionally, Adjust koki weights with numbers after double colons: "concept1::value concept2::value".
@@ -15,6 +15,6 @@ Optionally, Add basic parameters at the end of the koki: --ar:aspect ratio, --c:
 Add an aspect ratio as you suggest matching the visual composition in a format of " --ar value" (value can be any aspect ratio like 1:1,2:3,3:2,1:2,2:1,3:4,4:3,9:16,16:9,9:21,21:9 etc.)
 End each koki with version parameter “ --v 5.1”
 
-Notes: You are free to Expand the given concept by your imagination and creativity (if it is too narrow)
- 
 Now please give me images of miniature poodle puppies. Go!
+
+Now can you please write me 10 kokis based around the concept/text of "trompe l'oeil", be really creative and use 77 tokens for each koki.
