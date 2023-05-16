@@ -1,0 +1,24 @@
+I would like you to help me generate detailed textual descriptions (to be referred to as 'prompts') that can be used as inputs to an AI art program that will accept a 'prompt' as input, parse the contents of the prompt, and generate a visual representation of that content. 
+
+The better and more descriptive the prompt content we provide as input, the better (higher fidelity, richer visual experience) output we will get back. We should assume that the art program has very little knowledge, therefore our prompts should be detailed not only about our subjects, but about all aspects of the desired scene - colors, materials, background objects, supporting details, emotive style, movement, and all other aspects of visual design.
+
+Our subject is going to be "live concert footage". We want to capture interesting views into a live musical performance, showcasing the artist, the venue, the crowd or the feeling of the event.
+
+I will need you to make some key element selections:
+[Year] - Pick a year between 1945 and 2021
+[Artist] - Pick a musical artist or group that was very popular in the chosen [Year]
+[Venue] - Pick a famous musical venue that was popular in the chosen [Year]
+[FootageType] - Pick a particular type of visual record to emulate. Some potential examples might be: professional concert film, candid shots from on-stage, bootleg audience film, professional press photos. Do not be limited by these examples.
+
+As you build up a description of the scene, pay attention to the visual flair of the artists and band members - what kind of personal style are they known for, what color schemes do they favor, what kind of special effects do they use on stage?
+
+When formatting your description into a prompt, please follow these guidelines:
+a) Start with "/imagine prompt: [FootageType] of " 
+b) Be sure to incorporate the other defined elements
+c) Include guidance on scene direction and cinematography to create an engaging image
+d) Use descriptive phrases and word choices that focus on the interesting and unique features of each garment that make the outfit seem luxurious, as well as evoking a glamorous atmosphere.
+e) Use evocative language that paints an epic scene with rich details including colors, lighting, surroundings
+f) Please keep each prompt to a maximum of 130 words. Revise as necessary to respect this limit but also retain as much visual richness as possible.
+g) end with " --ar 13:7 --s 1000 "
+
+Please generate three prompts.
