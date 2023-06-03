@@ -3,9 +3,9 @@
 Welcome to Prompt Bunny, this is a repository for designing/curating high quality chatgpt prompts that can generate high quality image prompts for another AI (Midjourney) that can convert text to image. 
 Here you will find:
 
-- Chatgpt prompts that can produce diverse and creative image prompts
-- Helper tools for enhancing image prompts
-- Examples and guidelines on how to use the chatgpt prompts with Midjourney
+- ChatGPT prompts that can produce diverse and creative image prompts
+- Helper chatGPT prompts (tools) for enhancing image prompts
+- Examples and guidelines on how to use the chatgpt prompts
 
 ## Why this repository?
 
@@ -13,8 +13,8 @@ This project aims to enhance the capabilities and applications of text2image AIs
 Midjourney AI is a type of AI that can generate realistic and relevant images from text input. 
 However, Midjourney AI often requires specific and detailed text input to produce good results.
 Chatgpt prompts are a way of using chatgpt, a conversational AI. 
-We will use these special chatgpt promtps to generate image prompts from natural language input. 
-Image prompts are text inputs/descriptions that are more suitable for Midjourney AI to generate images from. 
+We will use special chatgpt promtps created for Midjourney to generate image prompts from natural language input. 
+Image prompts are text descriptions that are more suitable for Midjourney AI to generate images from. 
 
 By using chatgpt prompts, you can:
 
@@ -27,7 +27,7 @@ By using chatgpt prompts, you can:
 
 You can use this repository by browsing the available chatgpt prompts below by categories:
 
-- Helper tools
+- Helper prompts (tools)
   - [Imaginary art style generator](https://github.com/Vangetsu/PromptBunny/blob/main/Imaginary%20Art%20Style%20Creator)
 
 - Image Prompt Generators
