@@ -8,7 +8,12 @@ Welcome to Prompt Bunny, this is a repository for designing and curating high qu
 
 ## Why this repository?
 
-This project aims to enhance the capabilities and applications of text2image AI. Text2image AI is a type of AI that can generate realistic and relevant images from text input. However, text2image AI often requires specific and detailed text input to produce good results. Chatgpt prompts are a way of using chatgpt, a conversational AI, to generate image prompts from natural language input. Image prompts are text descriptions that are more suitable for text2image AI to generate images from. By using chatgpt prompts, you can:
+This project aims to enhance the capabilities and applications of text2image AIs like Midjourney. 
+Midjourney AI is a type of AI that can generate realistic and relevant images from text input. 
+However, Midjourney AI often requires specific and detailed text input to produce good results.
+Chatgpt prompts are a way of using chatgpt, a conversational AI, to generate image prompts from natural language input. 
+Image prompts are text descriptions that are more suitable for Midjourney AI to generate images from. 
+By using chatgpt prompts, you can:
 
 - Generate image prompts from simple or vague text input
 - Generate image prompts from different perspectives or styles
