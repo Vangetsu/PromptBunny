@@ -1,18 +1,21 @@
 # Image Prompt Generators for Midjourney (AI Based - chatGPT etc.)
 
-Welcome to Prompt Bunny, this is a repository for designing and curating high quality chatgpt prompts that can generate high quality image prompts for another AI (Midjourney) that can convert text to image. Here you will find:
+Welcome to Prompt Bunny, this is a repository for designing/curating high quality chatgpt prompts that can generate high quality image prompts for another AI (Midjourney) that can convert text to image. 
+Here you will find:
 
-- Chatgpt prompts that can produce diverse and creative image prompts for various text2image tasks and domains
+- Chatgpt prompts that can produce diverse and creative image prompts
+- Helper tools for enhancing image prompts
 - Examples and guidelines on how to use the chatgpt prompts with Midjourney
-- Evaluations and feedback on the quality and performance of the chatgpt prompts and Midjourney
 
 ## Why this repository?
 
 This project aims to enhance the capabilities and applications of text2image AIs like Midjourney. 
 Midjourney AI is a type of AI that can generate realistic and relevant images from text input. 
 However, Midjourney AI often requires specific and detailed text input to produce good results.
-Chatgpt prompts are a way of using chatgpt, a conversational AI, to generate image prompts from natural language input. 
-Image prompts are text descriptions that are more suitable for Midjourney AI to generate images from. 
+Chatgpt prompts are a way of using chatgpt, a conversational AI. 
+We will use these special chatgpt promtps to generate image prompts from natural language input. 
+Image prompts are text inputs/descriptions that are more suitable for Midjourney AI to generate images from. 
+
 By using chatgpt prompts, you can:
 
 - Generate image prompts from simple or vague text input
@@ -22,18 +25,20 @@ By using chatgpt prompts, you can:
 
 ## How to use this repository?
 
-You can use this repository by:
+You can use this repository by browsing the available chatgpt prompts below by categories:
 
-- Browsing the chatgpt prompts by categories, such as:
+- Helper tools
+  - [Imaginary art style generator](https://github.com/Vangetsu/PromptBunny/blob/main/Imaginary%20Art%20Style%20Creator)
 
-  - Art: Generate image prompts for artistic styles, genres, or themes
-  - Fantasy: Generate image prompts for fantasy creatures, worlds, or scenarios
-  - Science: Generate image prompts for scientific concepts, phenomena, or experiments
-  - Entertainment: Generate image prompts for entertainment media, such as movies, games, books, etc.
+- Image Prompt Generators
+  - 
+  - 
+  - 
 
-- Following the instructions on how to use the chatgpt prompts with Midjourney
-- Providing feedback or ratings on the chatgpt prompts and Midjourney
-- Submitting your own chatgpt prompts or suggestions for new categories
+You can also:
+
+- Provide feedback or ratings on the chatgpt prompts
+- Submit your own chatgpt prompts or suggestions for new categories
 
 
 ## How to contact us?
