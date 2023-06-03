@@ -30,8 +30,8 @@ You can use this repository by browsing the available chatgpt prompts below by c
 - Helper prompts (tools)
   - [Imaginary art style generator](https://github.com/Vangetsu/PromptBunny/blob/main/Imaginary%20Art%20Style%20Creator)
 
-
 - Image Prompt Generators
+  - [Photo prompt generator (with initial concept)](https://github.com/Vangetsu/PromptBunny/blob/main/Photo%20Prompt%20Generator%20(with%20initial%20concept))
 
 You can also:
 
