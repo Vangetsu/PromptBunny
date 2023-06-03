@@ -1,6 +1,6 @@
 # Image Prompt Generators for Midjourney (AI Based - chatGPT etc.)
 
-Welcome to Prompt Bunny, this is a repository for designing/curating high quality chatgpt prompts that can generate high quality image prompts for another AI (Midjourney) that can convert text to image. 
+Welcome to Prompt Bunny, this is a repository for designing/curating high quality chatgpt prompts that can generate image prompts for another AI (Midjourney) that can convert text to image. 
 Here you will find:
 
 - ChatGPT prompts that can produce diverse and creative image prompts
