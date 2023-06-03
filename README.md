@@ -29,7 +29,6 @@ You can use this repository by browsing the available chatgpt prompts below by c
 
 - Helper prompts (tools)
   - [Imaginary art style generator](https://github.com/Vangetsu/PromptBunny/blob/main/Imaginary%20Art%20Style%20Creator)
-
 - Image Prompt Generators
   - 
   - 
