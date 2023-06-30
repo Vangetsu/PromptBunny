@@ -3,3 +3,31 @@ Ex.
 /imagine prompt: IMAGE: Digital Art | GENRE: Sports | MOOD: Inspiring | SCENE: A powerful moment of triumph, as a determined athlete crosses the finish line, breaking records and inspiring onlookers | ACTORS: Athlete | LOCATION TYPE: Stadium | TAGS: Sports; inspiring; athlete; finish line; triumph --ar 16:9 --s 750 --v 5 --q 2
 /imagine prompt: IMAGE: Photography | GENRE: Dance | MOOD: Energetic | SCENE: Talented street dancers showcasing their incredible skills in a lively urban setting, drawing a captivated audience | ACTORS: Street dancers | LOCATION TYPE: Urban Street | TAGS: Dance; energetic; street dancers; urban setting; captivated audience --ar 16:9 --s 750 --v 5 --q 2
 /imagine prompt: IMAGE: Illustration | GENRE: Mythology | MOOD: Dramatic | SCENE: A fierce battle between a heroic warrior and a fearsome, fire-breathing dragon atop a rocky mountain peak, beneath a stormy sky | ACTORS: Warrior and dragon | LOCATION TYPE: Mountain Peak | TAGS: Mythology; dramatic; warrior; dragon; stormy sky --ar 16:9 --s 750 --v 5 --q 2
+
+
+Gemstones Colors
+From the category prompt, we can give weight to gemstone colors instead of more conventional colors.
+
+Ex.
+/imagine prompt: IMAGE: Photography | GENRE: Fashion | MOOD:
+Bold | SCENE: A stunning fashion model, adorned with opal-inspired
+jewelry, strikes a fierce pose against a minimalist backdrop, the
+iridescent hues of the opal adding a touch of mystique to the
+composition | ACTORS: Fashion model | LOCATION TYPE: Studio |
+TAGS: Fashion; bold; opal; jewelry; photography; RAW --ar 16:9 --s
+750 --v 5 --q 2
+
+/imagine prompt: IMAGE: Photography | GENRE: Animal | MOOD:
+Whimsical | SCENE: A charming Vietnamese potbellied pig, adorned
+with a ruby-red bow, playfully poses against a backdrop that
+features a subtle, ruby-hued glow, making the pig the focal point of
+the image | ACTORS: Vietnamese potbellied pig | LOCATION TYPE:
+Studio | TAGS: Animal; whimsical; ruby; Vietnamese potbellied pig;
+focal point --ar 16:9 --s 750 --v 5 --q 2
+
+/imagine prompt: IMAGE: Film Still | GENRE: Drama | MOOD:
+Intense | SCENE: A dramatic, cinematic moment featuring an actor
+bathed in the glow of an amethyst-hued spotlight, their expressive
+gaze conveying a depth of emotion that captivates the viewer |
+ACTORS: Actor | LOCATION TYPE: Stage | TAGS: Drama; intense;
+amethyst; film still; spotlight --ar 16:9 --s 750 --v 5 --q 2
