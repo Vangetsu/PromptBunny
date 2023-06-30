@@ -1,0 +1,6 @@
+/imagine prompt: What would a [Mood] [Genre] scene look like, [Scene Description]? --ar 16:9 --q 2 --s 750
+Ex.
+/imagine prompt: What would a dreamy underwater scene look like, featuring a mesmerizing ballet performance by graceful mermaids, surrounded by a vibrant coral reef and shimmering schools of fish? --ar 16:9 --s 750 --q 2
+/imagine prompt: What would a serene, nature-inspired scene look like, depicting a peaceful Zen garden with meticulously arranged rocks, raked sand, and a gentle waterfall flowing into a tranquil pond? --ar 16:9 --s 750 --q 2
+/imagine prompt: What would a lively urban art scene look like, capturing the essence of a bustling street fair with various artists painting murals, musicians performing live, and food trucks serving delicious treats? --ar 16:9 --s 750 --q 2
+
