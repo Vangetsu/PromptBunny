@@ -1,0 +1,26 @@
+/imagine prompt: A dynamic low-angle shot capturing [subject] in the midst of an intense [action or activity], set against the backdrop
+of a [unique location or environment], featuring dramatic [lighting style] and bold [color palette], creating a [mood], utilizing an
+experimental [art technique or style], resulting in a visually striking and innovative composition --ar [aspect ratio]
+
+Ex.
+
+/imagine prompt: A dynamic low-angle shot capturing a street
+artist in the midst of an intense spray painting session, set against
+the backdrop of a vibrant urban mural, featuring dramatic
+backlighting and bold contrasting colors, creating an energetic
+mood, utilizing an experimental double exposure technique,
+resulting in a visually striking and innovative composition --ar 2:1 --s 750 --v 5 --q 2
+
+/imagine prompt: A dynamic low-angle shot capturing a ballerina
+in the midst of an elegant pirouette, set against the backdrop of an
+abandoned warehouse, featuring dramatic chiaroscuro lighting and
+bold monochromatic tones, creating a mysterious mood, utilizing an
+experimental high-speed photography technique, resulting in a
+visually striking and innovative composition --ar 2:1 --s 750 --v 5 --q 2
+
+/imagine prompt: A dynamic low-angle shot capturing a parkour
+athlete in the midst of an intense leap across rooftops, set against
+the backdrop of an urban cityscape, featuring dramatic sunset
+lighting and bold orange and purple hues, creating a vibrant mood,
+utilizing an experimental long-exposure technique, resulting in a
+visually striking and innovative composition --ar 16:9 --s 750 --v 5 --q 2
