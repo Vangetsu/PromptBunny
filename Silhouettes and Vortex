@@ -1,0 +1,17 @@
+/imagine prompt: A captivating scene featuring a rain of [color1] fire and a vortex of [color2] water, with the silhouette of a [subject] in the middle, shot on [camera model], displaying a photorealistic, volumetric, and dynamic appearance
+Ex.
+
+/imagine prompt: A captivating scene featuring a rain of crimson
+red fire and a vortex of deep blue water, with the silhouette of a
+dancer in the middle, shot on Nikon Z7 II, displaying a photorealistic,
+volumetric, and dynamic appearance --s 750 --v 5 --q 2
+
+/imagine prompt: A captivating scene featuring a rain of emerald
+green fire and a vortex of vibrant orange water, with the silhouette
+of a woman in the middle, shot on Canon EOS R5, displaying a
+photorealistic, volumetric, and dynamic appearance --s 750 --v 5 --q 2
+
+/imagine prompt: A captivating scene featuring a rain of golden
+yellow fire and a vortex of magenta water, with the silhouette of an
+acrobat in the middle, shot on Panasonic Lumix S1R, displaying a
+photorealistic, volumetric, and dynamic appearance --s 750 --v 5 --q 2
