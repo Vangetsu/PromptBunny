@@ -1,6 +1,5 @@
 /imagine prompt: IMAGE: [Image Type] | GENRE: [Genre] | MOOD: [Mood] | SCENE: [Scene Description] | ACTORS: [Actors] | LOCATION TYPE: [Location Type] | TAGS: [tag1;tag2;...;tagX] --ar 16:9 --q 2 --s 750
-
 Ex.
 /imagine prompt: IMAGE: Digital Art | GENRE: Sports | MOOD: Inspiring | SCENE: A powerful moment of triumph, as a determined athlete crosses the finish line, breaking records and inspiring onlookers | ACTORS: Athlete | LOCATION TYPE: Stadium | TAGS: Sports; inspiring; athlete; finish line; triumph --ar 16:9 --s 750 --v 5 --q 2
 /imagine prompt: IMAGE: Photography | GENRE: Dance | MOOD: Energetic | SCENE: Talented street dancers showcasing their incredible skills in a lively urban setting, drawing a captivated audience | ACTORS: Street dancers | LOCATION TYPE: Urban Street | TAGS: Dance; energetic; street dancers; urban setting; captivated audience --ar 16:9 --s 750 --v 5 --q 2
-/imagine prompt: IMAGE: Illustration | GENRE: Mythology | MOOD: Dramatic | SCENE: A fierce battle between a heroic warrior and a fearsome, fire-breathing dragon atop a rocky mountain peak, beneath a stormy sky | ACTORS: Warrior and dragon | LOCATION TYPE: Mountain Peak | TAGS: Mythology; d
+/imagine prompt: IMAGE: Illustration | GENRE: Mythology | MOOD: Dramatic | SCENE: A fierce battle between a heroic warrior and a fearsome, fire-breathing dragon atop a rocky mountain peak, beneath a stormy sky | ACTORS: Warrior and dragon | LOCATION TYPE: Mountain Peak | TAGS: Mythology; dramatic; warrior; dragon; stormy sky --ar 16:9 --s 750 --v 5 --q 2
