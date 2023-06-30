@@ -1,0 +1,5 @@
+/imagine prompt: [Image Type] | [Genre] | [Mood] | [Scene Description] | [Location Type] --ar 16:9 --q 2 --s 750 --v 5
+Ex.
+/imagine prompt: Abstract Painting | Vibrant | Bold geometric shapes | Intersecting lines and patterns | Explosions of color --ar 16:9 --s 750 --v 5 --q 2
+/imagine prompt: Noir Illustration | Tense | Private detective in a dimly lit alley | Rainy night and vintage cars | Silhouettes and shadows --ar 16:9 --s 750 --v 5 --q 2
+/imagine prompt: Surreal Photography | Dreamlike | Floating islands in the sky | Giant flowers and whimsical creatures | Pastel-colored clouds --ar 16:9 --s 750 --v 5 --q 2
