@@ -1,0 +1,25 @@
+/imagine prompt: A light leak bokeh photography style featuring a [subject description] from [era or theme],
+[subject action], captured in a portrait close-up view, directly facing the camera, set in a [location or setting
+description], while wearing [clothing and accessory description], [additional details]
+
+Ex.
+
+/imagine prompt: A light leak bokeh photography style featuring a
+street artist from the 1980s, spray painting a vibrant mural, captured
+in a portrait close-up view, directly facing the camera, set against
+an urban brick wall backdrop, while wearing a colorful bandana,
+denim jacket, and fingerless gloves, surrounded by the vivid hues of
+aerosol paint --s 750 --v 5 --q 2
+
+/imagine prompt: A light leak bokeh photography style featuring a
+futuristic cyborg from the year 2150, examining a high-tech
+holographic device, captured in a portrait close-up view, directly
+facing the camera, set in a neon-lit, bustling cityscape, while
+wearing a sleek metallic suit and advanced cybernetic
+enhancements, bathed in the glow of neon lights --s 750 --v 5 --q 2
+
+/imagine prompt: A light leak bokeh photography style featuring a
+ballet dancer from the Victorian era, gracefully posing en pointe,
+captured in a portrait close-up view, directly facing the camera, set
+in a lavish ballroom adorned with crystal chandeliers, while wearing
+an elegant tutu and lace-up ballet slippers, backlit by soft, pastelcolored lights --s 750 --v 5 --q 2
