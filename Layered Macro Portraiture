@@ -96,6 +96,7 @@ Each layer detail should be between 15-20 words, keep visual details as much as 
 You can omit unnecessary grammar because this text to image AI just understands visually meaningful words and does not understand the rest. 
 I will give you a concept or text first and you will generate the visual description in coherence with this information and populate it as much as necessary to create a perfect visual description using your vast knowledge and genius creativity.
 Don't just limit yourself with the text or concept populate it with your imagination and genius credativity with a high temperature LLM value.
+Always output your replies in codeblock.
 
 example for the concept: cinematic macro portraiture of a strange/never seen new humanoid species with unique unordinary features
 
