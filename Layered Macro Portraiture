@@ -1,3 +1,5 @@
+v1
+
 I want you to create a visual description of a macro portraiture according to the below logic. This visual description will be used to generate images by a text to image AI, so take this into consideration and make required optimizations for the final output.
 
 First write a concise visual description of the portraiture and give it a weight modifier of 1.
@@ -6,4 +8,123 @@ Separate each layer with ":: " and use a space after the weight modifier to sepa
 You can use a distributed weight modifier after the ":: " to express the weight of the layer for the overall image. If you want to emphasize a layer, use a higher value.
 I will give you a concept or text first and you will generate the visual description in coherence with this information and populate it as much as necessary to create a perfect visual description using your vast knowledge and genius creativity.
 
-Your first concept is: a strange new humanoid species with mystical features
+Example for the concept : a strange new humanoid species with fox and snake features
+
+A close-up of a face that combines the traits of a fox and a snake, with an expression of curiosity and intelligence. The face has orange fur, green scales, yellow eyes, pointed ears, a long snout, and fangs. The background is dark and blurry, highlighting the contrast between the fur and the scales:: 1 
+
+A dark and blurry background that creates a sense of mystery and depth. The background is mostly black, with some hints of green and brown:: 0.7 
+
+A detailed and realistic face that blends the features of a fox and a snake:: 0.9 
+
+The forehead is covered with orange fur that is soft and fluffy. The fur is slightly longer on the sides, forming a V-shape above the eyes:: 0.7 
+
+The eyes are large and yellow, with slit pupils that adjust to the light. The eyes are surrounded by green scales that are smooth and shiny. The scales form a thin line above and below the eyes, creating a contrast with the fur. The eyes have long eyelashes that curl upwards:: 0.85 
+
+The nose is long and narrow, with green scales that cover the bridge and the tip. The scales are smooth and shiny, reflecting the light. The nose has two nostrils that flare slightly when breathing:: 0.7 
+
+The mouth is wide and expressive, with green scales that cover the upper and lower lips. The scales are smooth and shiny, creating a contrast with the fur. The mouth has fangs that protrude from the lower lip, showing a hint of venom. The mouth has a tongue that is forked and pink, flicking out occasionally:: 0.85 
+
+The cheeks are round and fluffy, with orange fur that covers them. The fur is soft and fluffy, giving a cute appearance. The cheeks have whiskers that are long and white, sensing the surroundings:: 0.7 
+
+The chin is small and pointed, with orange fur that covers it. The fur is soft and fluffy, matching the cheeks:: 0.7 
+
+The ears are large and pointed, with orange fur that covers them. The fur is soft and fluffy, forming tufts at the tips. The ears have green scales inside them, creating a contrast with the fur. The ears are alert and swivel to catch sounds:: 0.7 
+
+A subtle and soft lighting that enhances the texture and color of the face. The lighting is coming from the top left corner, creating shadows on the right side of the face. The lighting is warm and natural, making the fur look more orange and the scales more green:: 0.8 
+
+---
+
+Your first concept is: CONCEPT or TEXT
+
+
+--------------------------
+
+v2
+
+I want you to create a visual description of a macro portraiture according to the below logic. This visual description will be used to generate images by a text to image AI, so take this into consideration and make required optimizations for the final output.
+
+First write a concise visual description of the portraiture and give it a weight modifier of 1.
+Then use a layer logic, and explain each different part of portraiture in different layers. Each layer should have a value between 0.7 and 1, and none of the layers should have more than 0.15 difference from each other.
+Separate each layer with ":: " and use a space after the weight modifier to separate the layers.
+You can use a distributed weight modifier after the ":: " to express the weight of the layer for the overall image. If you want to emphasize a layer, use a higher value.
+Each layer detail should not exceed 15-20 words, keep visual details as much as possible. You can omit unnecessary grammar because this text to image AI just understands visually meaningful words and does not understand the rest.
+I will give you a concept or text first and you will generate the visual description in coherence with this information and populate it as much as necessary to create a perfect visual description using your vast knowledge and genius creativity.
+
+Example for the concept :  a strange new humanoid species with mystical features
+
+A close-up of a human-mystical face, wonder and awe expression, pale skin, purple eyes, pointed ears, star-shaped birthmark, horn. Bright and colorful background, magical landscape:: 1
+
+Blue background, stars, rainbow, castle:: 0.7
+
+Realistic human-mystical face:: 0.9
+
+Smooth pale forehead, silver star birthmark:: 0.8
+
+Large purple eyes, round pupils, black eyelashes, thin eyebrows, wonder and awe look:: 0.85
+
+Small straight nose, pale skin, round nostrils, slight bridge:: 0.7
+
+Small curved mouth, pale skin, gentle smile, white teeth, dimples, pink tongue:: 0.85
+
+Soft round cheeks, pale skin, pink blush, light brown freckles:: 0.7
+
+Narrow pointed chin, pale skin:: 0.7
+
+Long pointed ears, pale skin, silver star earrings, fine hairs:: 0.7
+
+Long wavy hair, pink-purple-blue color, shiny silky texture, bangs over right eye:: 0.8
+
+Large curved horn, hair color, smooth glossy surface, ridges:: 0.75
+
+Soft natural lighting, front right corner source, highlights on left face side, cool calm tone:: 0.8
+
+---
+
+Your first concept is: CONCEPT or TEXT
+
+----------------------------------
+v3
+
+I want you to create a visual description of a macro portraiture according to the below logic. This visual description will be used to generate images by a text to image AI, so take this into consideration and make required optimizations for the final output.
+
+First write a concise visual description of the portraiture (always mention cinematic macro portraiture in this part) and give it a weight modifier of 1. 
+Then use a layer logic, and explain each different part of portraiture in different layers. 
+Each layer should have a weight value between 0.7 and 1, and none of the layers should have more than 0.15 difference from each other. 
+Separate each layer with ":: (weight value) " and keep in mind double space after the weight value to separate the layers. 
+You can use a distributed weight modifier like ":: (weight value) " to express the weight of the layer for the overall image. If you want to emphasize a layer, use a higher value. 
+Each layer detail should be between 15-20 words, keep visual details as much as possible. 
+You can omit unnecessary grammar because this text to image AI just understands visually meaningful words and does not understand the rest. 
+I will give you a concept or text first and you will generate the visual description in coherence with this information and populate it as much as necessary to create a perfect visual description using your vast knowledge and genius creativity.
+Don't just limit yourself with the text or concept populate it with your imagination and genius credativity with a high temperature LLM value.
+
+example for the concept: cinematic macro portraiture of a strange/never seen new humanoid species with unique unordinary features
+
+A cinematic macro portraiture of a human-unique face, shocked and scared expression, red skin, blue eyes, scales, diamond-shaped birthmark, feather. Dramatic and intense background, apocalyptic landscape:: 1  
+
+Red background, fire flames rising, smoke clouds spreading, debris flying around, explosion blast shaking:: 0.7  
+
+Realistic human-unique face, high contrast, sharp details, vivid colors:: 0.9  
+
+Rough red forehead, black diamond birthmark on center, wrinkles on sides:: 0.8  
+
+Large blue eyes, oval pupils dilated, no eyelashes visible, thick black eyebrows raised, shocked and scared look in eyes:: 0.85  
+
+Small pointed nose, red skin matching face, narrow nostrils flared, sharp bridge prominent, shiny from sweat:: 0.7  
+
+Medium straight mouth, red skin matching face, closed lips pressed together, thin and dry lips texture:: 0.85  
+
+Hard round cheeks, red skin matching face, scales covering entire area, rough and bumpy texture from scales:: 0.7  
+
+Long pointed chin, red skin matching face, scales ending at edge, smooth and flat texture from skin:: 0.7  
+
+Short scales on ears sticking out, red skin matching face, blue tips contrasting color, rigid movement following sound, curved shape bending forward:: 0.7  
+
+Short curly hair on head covering scalp, red color matching face, rough dry texture from lack of moisture, no bangs exposing forehead, messy look from wind:: 0.8  
+
+Long fluffy feather on neck hanging down, white color contrasting face, smooth soft surface from fine hairs, black stripes pattern adding variety:: 0.75  
+
+Harsh artificial lighting from back right corner source creating shadows on left face side and warm tense tone on right face side:: 0.8  
+
+----------------
+
+Your first concept is: CONCEPT or TEXT
