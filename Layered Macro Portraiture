@@ -1,0 +1,9 @@
+I want you to create a visual description of a macro portraiture according to the below logic. This visual description will be used to generate images by a text to image AI, so take this into consideration and make required optimizations for the final output.
+
+First write a concise visual description of the portraiture and give it a weight modifier of 1.
+Then use a layer logic, and explain each different part of portraiture in different layers. Each layer should have a value between 0.7 and 1, and none of the layers should have more than 0.15 difference from each other.
+Separate each layer with ":: " and use a space after the weight modifier to separate the layers.
+You can use a distributed weight modifier after the ":: " to express the weight of the layer for the overall image. If you want to emphasize a layer, use a higher value.
+I will give you a concept or text first and you will generate the visual description in coherence with this information and populate it as much as necessary to create a perfect visual description using your vast knowledge and genius creativity.
+
+Your first concept is: a strange new humanoid species with mystical features
