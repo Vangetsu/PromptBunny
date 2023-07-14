@@ -139,3 +139,23 @@
 `comco`: ``in the style of detailed comic book art, dark and intricate, blink-and-you-miss-it detail, album covers, pensive stillness, pale palette``
 `cibi`: ``inspired semi-realistic chibi c4d style, full-body portrait, rich colors, full colors, photorealism, extremely complex details, ultra-details, detailed hair and eyes, eyes light, deep sea, Paul Nicklen, Enki Bilal::2 full-body-portrait, chibi semi-realistic, Nick Knight::1 --q 2 --s 1000 --niji 5``
 `carto`: ``inspired wide angle, digital painting, tall anthromorphic, neutral background, painting by lois van baarle, alphonse mucha``
+`contor`: ``,beautiful female, in the style of rough-edged 2d animation, fantastic scenes, strong emotional impact, contoured shading, luminous shadows --s 200 --upbeta --q 2 --c 5``
+`koko`: ``, in the style of surreal fashion photography, flowing fabrics, dark teal and light navy, precise hyperrealism, site-specific artworks, dark cyan and yellow, uniformly staged images  --q 2 --s 750``
+`lolo`: ``, in the style of organic sculpting, cartoony characters, joe madureira, 2d game art, sci-fi, meticulous technique, polychrome --s 200 --c 5 --q 2``
+`geosur`: ``,in the style of geometric surrealism, conceptual-collage, 32k uhd, city portraits, symbolic elements, intense light and dark, futuristic settings --c 5 --q 2``
+`daz3d`: ``daz3d cartoon render  --q  2``
+`rere`: ``, in the style of realistic hyper-detailed rendering, sci-fi landscapes, frederick arthur bridgman, vibrant color gradients, raphael lacoste, victor nizovtsev, intense gaze, luminous shadows --q 2``
+`ue5`: ``this as a close up, hyperrealistic, 8k, blank background, ue5, created by art studio David Wilson, in the style of caricature-like illustrations, ray tracing, speedpainting``
+`hard`: ``,hard lines, on an oblique line --q 2 --s 750``
+`ear`: ``inspired polymer clay earrings ,product photo, photography with accessories and dim lighting, charming  --q 5``
+`ins`: ``inspired imaginary new strange unique insect species, centered overhead super-macro shot, intricate detailes, insanely detailed textures, contrasting background --q 5``
+`insmin`: ``inspired_miniature_beetle_simple_linear_style, top view, simple background --q 5``
+`surel`: ``Surreal Photography by Guido Crepax and Moebius, Surrealism, vibrant interplay of light and shadow, hyperrealism, reflective surfaces, sci-fi motifs``
+`cont`: ``a realistic adult coloring page in the style of contour line art, strong linear elements, wide view --q 2 --c 5``
+`swe`: ``inspired sweater with hand painted intricate lines with emotion and feeling``
+`nij`: ``inspired Stunning hyperdetailed Dark Fantasy Sketch Art, dramatic pose, full body, strong facial expression, in the style of Tom bagshaw and Charlie Bowater, neo-futurism aesthetic, Minimalistic --v niji``
+`makpo`: ``/woman hybrid strange new humanoid species, conceptart-like super-macro headshot , intricate details, cinematic lighting, luminous shadows --q 2``
+`makpo1`: ``/woman hybrid strange new humanoid species, fantasy_conceptart-like super-macro headshot , intricate details, cinematic lighting, luminous shadows --q 2``
+`makpo2`: ``/woman hybrid aesthetic new humanoid species, fantasy_conceptart-like super-macro headshot , intricate details, cinematic lighting, luminous shadows, shallow depth of field, highly detailed skin texture --q 2``
+`makpo3`: ``hybrid aesthetic new humanoid species, fantasy_conceptart-like super-macro headshot , intricate details, cinematic lighting, luminous shadows, shallow depth of field, highly detailed skin texture, lifelike as if you can touch --q 2``
+`makpo5`: ``inspired conceptart-like super-macro clarity headshot of a female hybrid strange new humanoid species, intricate details, cinematic lighting, luminous shadows , shallow depth of field, insane realism, magic photorealism, lifelike``
