@@ -65,7 +65,7 @@
 `hop`: ``incredibly detailed award winning portrait photography: close-up, digital art: hyperrealistic,cinematic lights, cinematic composition``
 `dinamik`: ``dynamic perspective and unusual composition, shiny metal, richly detailed and textured, extremely low camera angle with hyper - exaggerated perspective, high - definition photography and stunning 8K resolution, dramatic lighting --s 1000 --c 12``
 `shell`: ``superb photo painting remix mixed media , otherworldly antromorph, seashell style with jazzy crispy bumpy scetchy surface in an exo fururistic, cinematic, high detailed, crepuscular rays, golden ratio  --q 2 --c 10 --s 1000``
-`cra`: ``In the style of Craig Davison. Dramatic lighting. Sci-fi. Vibrant. blurs and neon colors. --c 10 --s 1000 --q 2``
+`cra`: ``in the style of craola``
 `oil1`: ``thick oil painting, masterpiece, medium brush strokes, perfect composition, vibrant colors --c 10 --q 2 --s 1000``
 `prec`: ``hyperrealistic painting:: technical precision brush strokes::9 depth illusion::5 --q 2 --c 10 --s 1000``
 `life`: ``realistic style, smooth and precise strokes of paint, lifelike and convincing effect``
@@ -168,3 +168,72 @@
 `inter`: ``Alan Lee and Giger and Vermeer and Bastien Lecouffe-Deharme, Cybernetic Engineer Starship Pilot, Armor, hyperrealism, surrealism, vibrant interplay of light and shadow  --c 11 --s 333``
 `inter1`: ``Alan Lee and Giger and Vermeer and Bastien Lecouffe-Deharme, Armor, hyperrealism, surrealism, vibrant interplay of light and shadow  --c 11 --s 333``
 `tia`: ``tiamat actress with an elegant dress walking on a golden background, in the style of photorealistic cityscapes, superheroes, 32k uhd, dark turquoise, dc comics, exquisite clothing detail --s 750 --style raw``
+`relo`: ``:: a realistic illustration, in the style of zena holloway, detailed character expressions, dmitri danish, playful character designs, duckcore, chip zdarsky, charming characters  --upbeta   --s  250``
+`dighq`: ``Digital high end art, magic in hand, living eyes, perfect face, perfect skin, in the style of Maciej Kuciara, fantastic quality art, realistic result, fantasy, random angle, spiritual  --s  850   --q  5   --w  3   --v  niji   --upbeta``
+`dighq1`: ``Digital high end art, warcraft dranei, magic in hand, chrome and liquid, living eyes, perfect face, perfect skin, horns, long ears, in the style of Maciej Kuciara, fantastic quality art, realistic result, elf and fantasy, random angle, spiritual  --s  850   --q  5   --w  3   --v  niji   --upbeta``
+`cult`: ``female cultist in the temple, with particles effects, hearthstone fantasy art style``
+`hass`: ``shot using a Hasselblad camera, ISO 100, soft light, award - winning photograph, color grading, high - end retouching, fine art, Advertising photography, Commercial photography  --s  250 --q 5 --c 5``
+`impo`: ``, in the style of subdued color palette, mechanical realism, scoutcore, dark gray and yellow, angura kei, heavy use of palette knives, emphasis on detail --c 3 --q 2``
+`dolo`: ``Punk Disney Pocahontas Princess, Horizon Zero Dawn Art Style, ancient Egypt, Chloe Price Hyberrealistic Horror Tattoos Selfie Snapchat disfigured forms, wearing headphones, light brown and blue, rug, bold manga lines, High and low resolution, 3D CGI art style :: glamor smile instagram selfie``
+`fanop`: ``, op-art, fantasy, surreal photography --c 5 --q 2``
+`legom`: ``,3d realistic model of Lego toy, dramatic lighting, unreal engine 5, 32k  --s 950 --q 2 --c 10``
+`sym`: ``, Symbol of a woman standing in the style of surreal architectural landscape, striking digital surreal, surreal portrait --s 750 --c 5  --q 2``
+`cry`: ``, in the style of cyril rolando, kim keever, cityscape, gediminas pranckevicius, dusty piles, ethereal trees --ar 16:10 --q 2 --c 10 --s 750``
+`edward`: ``by Edward Burtynsky``
+`perfect`: ``detailed perfect illustration by Gil Elvgren of perfect beautiful woman. perfect Ruby Lips. perfect Eyes. Youthful. Perfect skin. perfect Long flowing hair. Alhambra. --s 750 --c 20 --q 2``
+`cir`: ``circle in the circle, surreal portrait photography  --c  10   --q  2   --s  750``
+`cir1`: ``perfect circle --q 2 --c 10 --s 750``
+`esc`: ``, realistic hyper-detailed portraits, escher-inspired, ultrafine detail, masterpiece, epic  --q 2 --c 5``
+`cir2`: ``circle in the circle, surreal photography  --c  10   --q  2``
+`micropo`: ``micro pointillist::8 amd impressionist::5 full body portait of a woman whit a skin of misty translucent dormant air particles, on white background, professional fashion photography, hyper detailed texture of wavy long hair, poster like, japanese minimalism::1, tilt-shift on hands and face, nikon, hasselblad, canon, fujifilm, 8k, 16, 32k, super macro, stained glass windows with godzilla,photorealistic. Andrew Wyatt inspired modern art high fashion supermodel female portrait in a modern cityscape in a monochrome color palette``
+`redo`: ``young handsome man. he is in a red robe. the ribbons of his robe keep him in the air. he has mechanical tubes attached to his body. the body is in motion. dynamic pose. bent forward. mechanical parts in the body, darkness, beksinski, giger``
+`andy`: ``andy goldsworthy's magical land art``
+`nijo`: ``, cartoon realism, photorealism, depth of field, cinematic lighting, luminous, sharp and precise, cel shading, clean and clear image, digital art  --ar  9:16   --s  400   --style  expressive   --v  niji``
+`emo`: ``fat and cute emoji character,emoji,different emotions,multiple poses and expressions,disney style,anthropomorphic style  --s  50   --style  raw``
+`clos`: ``close-up of a woman with a strange mask``
+`maskem`: ``close-up of a woman with a strange mask, dot matrix, metallic, minimalist, glitch effect --s 220``
+`shad`: ``shadow photography, portrait of a [woman], urban portraits, black and white street photography, sunrays, cargopunk, luminous shadowing, backlight, criterion collection, mottled :: shot with [Rollei Prego 90] --ar 4:7``
+`shad1`: ``neon shadow photography, portrait of a [woman], urban portraits, black and white street photography, sunrays, cargopunk, neon luminous shadowing, backlight, criterion collection, mottled :: shot with [Rollei Prego 90] --ar 4:7``
+`dotsur`: ``dotmatrix surreal photography of a beautiful woman in a serene environment``
+`clozu`: ``close-up of a woman with a strange mask, neon dot matrix, minimalist, glitch effect``
+`ske`: ``Stunning hyperdetailed Horror Sketch Art in the style of Greg Staples and Steve Niles, (Full body shot)``
+`twist`: ``Twisted creatures, intertwined roots::1.7, gnarled branches, grotesque faces, eerie forest, midnight wanderers, by Junji Ito, macabre, gothic, long shadows, creepy faces, wideangle, nighttime, natural lighting, high detail, sharp focus, ambient lighting``
+`alu`: ``,life-like portrait, devilish, mischievous smile, muse, stunning, 3D photorealism, hyper-realistic volumetric details, real look, unreal engine, octane render, dreamlike light --ar 9:16 --style expressive --s 1000 --q 2 --niji 5``
+`alu1`: ``inspired life-like portrait, devilish, mischievous smile, muse, stunning, 3D photorealism, hyper-realistic volumetric details, real look, unreal engine, octane render, dreamlike light --ar 9:16 --style expressive --s 1000 --q 2 --niji 5``
+`nuan`: ``big big nuanced professional circles hoverdome deep space, deep link, deep trace, deep cubest shift, redshift, green blue yellow:: Sigmund curve from fallen feelings::0.9 closed-toed grooves ::0.1 Maggie amberland enters in the space between:: nether of lenz caperna agreement amicable docile and aloof:: reminiscent of Romanos. Prehistoric heretic heroic https parties. Photography deep in the minds eye. Behind the hypnotic spirals lives a spindle of gleeful boomerang monkey man. quaternion physics simulation narrated by Beautiful lapses in judgement::1.4 --ar 3:2 --c 33 --w 202 --s 900 --style raw``
+`cube`: ``cube, ghost of you, macabre, angelwave, aliencore, alienpunk, Zmiya Mochoruk, x-ray films``
+`aki`: ``by Erin hanson, Akira toriyama, jean Leon Gerome``
+`dit`: ``in the style of Tony DiTerlizzi``
+`zdz`: ``, in the style of Zdzisław Beksiński and craola and Anselm Kiefer and Anders Zorn and hans bellmer``
+`ansel`: ``, in the style of Anselm Kiefer``
+`zorn`: ``in the style of Anders Zorn``
+`hans`: ``in the style of hans bellmer``
+`yayoi`: ``inspired minimal painting by Yayoi Kusama``
+`ond`: ``:: Neon accents, Deep Dream Generator eyes, epic fantasy, Midjourney Background Cinematic, portrait Photography, Ultra-wide Angle, hyper - detailed, insane details, intricate details, beautifully color graded, Unreal Engine, Cinematic, Photoshoot, Shot on 25mm lens, Depth of Field, DOF, Tilt Blur :: Shutter Speed 1/1000, F/ 22, White Balance, 32k, Super-Resolution, Megapixel, Pro Photo RGB, VR,Lonely, Good, Massive, Half rear Lighting, Backlight, Natural Lighting, Incandescent, Optical Fiber, Moody Lighting, Cinematic Lighting, Studio Lighting, Soft Lighting, Volumetric :: Conte-Jour, Beautiful Lighting, Accent Lighting, Global Illumination, Screen Space Global Illumination, Ray Tracing Global Illumination, Optics, Scattering,Glowing, Shadows, Rough, Shimmering, Ray Tracing Reflections, Lumen Reflections, Screen Space Reflections, Diffraction Grading, Chromatic Aberration, GB Displacement, Scan Lines, Ray Traced, Ray Tracing Ambient Occlusion :: Anti-Aliasing, FKAA, TXAA, RTX, SSAO, Shaders, OpenGL- Shaders, GLSL-Shaders, Post Processing, Post-Production, Cell Shading, Tone Mapping, CGI, VFX, SFX, insanely detailed and intricate, hyper maximalist, elegant, super detailed, dynamic pose, photography, volumetric :: ultra-detailed, intricate details, 8K, super detailed, ambient occlusion, volumetric lighting, high contrast, HDR, Kodak Aerochrome, the art of Deep Dream Generator the art of David Hockney, the art of Ross Bleckner, the art of James Michalopoulos, the art of Michael Fauntleroy, a stunning realisticphotograph, 8kresolution, 3drender, professional photographic quality, sharp focus, cinematic still, highly detailed ::``
+`bers`: ``lifelike hyperrealism, Long shot full body portrait of a Super Strong Humanoid warrior wearing big furr boots, unrealisic bodybuilder physique, muscles, super big torso, gigantic stron arms, colossal, bulked, extremly strong, gigantic, hulk body, fierce, combat pose, magic forest environment``
+`tona`: ``watercolor drawing, by Tonia tkach``
+`atak`: ``a black and white portrait of an attractive woman dressed in a look, in the style of eric zener, daria endresen, michael malm, understated simplicity, bold use of contrasts, serene faces, poolcore  --q 2``
+`hypno`: ``, in the style of playful body manipulations, alejandro jodorowsky, classic portraiture, sally storch, surreal animation, frieke janssens, cross-processed film, hypnotic``
+`head`: ``head cyber soldier ::2 - Muted Melancholy photography style, subtle and desaturated tones creating a calming and introspective atmosphere, evoking a sense of quiet beauty - Ethereal portrait, soft and dreamy, delicate lighting, pastel colors, and a magical, whimsical atmosphere ::1``
+`igo`: ``igorrr ieud , breakcore balck metal in the style of Zdzisław Beksiński and Anselm Kiefer and Anders Zorn and hans bellmer``
+`bwa`: ``,monochrome, black and white, scary drawing, white background, high detail, flat illustration --s 750``
+`angelic`: ``creates an angelic being with a human face. also creates being the face of a lion, also creates it with the face of an eagle and creates another one with the face of a bull``
+`magg`: ``,Maggie Holmes style, cute, full body, clip art, white background``
+`other`: ``trees, sun and rainbow, in the style of nostalgic illustration, otherworldly, luminous skies, pensive surrealism, neo-pop iconography, gond art, dreamscapes``
+`retrom`: ``retro artwork, An act of kindness Is what you showed to me It caught me by surprise in this town of glass and ice Kindness so many people passed me by But you warmed me to my core and you left me wanting more``
+`fluc`: ``Black, blue, copper, white, purple, creamsicle ::5 minimalism, lipstick, cyberpunk nanopunk fashion, illuminated eyes, biomorphic black metallic dot pattern ::6 dot circle city background landscape ::3 fluctuating depth of field, ethereal lighting ::5``
+`brox`: ``, portrait, Gerald Brom, anime, contrasting colors, splash screen, complementary colors, fantasy concept art, cartoony, comic book style, graphic novel, Pop Art, chiaroscuro, cel-shaded, 2D  --q  2``
+`biom`: ``Fashion Photography, minimalism, smoked eye shadow, illuminated white bulging biomorphic dot pattern, luminous eyes, volcanic landscape, volcanic flowers, bokeh embers, volumetric particle dust, powdered paint pigment, vivid color, ethereal lighting , backlighting``
+`prox`: ``inspired full body evil cultist cel-shaded by loisvb/rossdraws/samdoesart stylized trending on artstation saturated colors high detail procreate  --ar  1:2 --q 2 --c 10``
+`prox1`: ``as full body evil cultist cel-shaded by loisvb/rossdraws/samdoesart stylized trending on artstation saturated colors high detail procreate  --ar  1:2 --q 2 --c 10``
+`thicko`: ``thick impasto style, intricate, lifelike, 32k, perfectly matching vibrant pastel neon colors:: cute pixar creature --q 2 --c 20``
+`ewolf`: ``ewolfwood aesthetic``
+`cardo`: ``Primeval Companion Stat Card: A card detailing the stats and appearance of the ancient, powerful creature that can be summoned by Druids who follow the Circle of the Primeval subclass. This companion fights alongside the Druid. --c 44 --s 451 --q 5``
+`cardo1`: ``Companion Stat Card: A card detailing the stats and appearance of the ancient, powerful creature.  --c 44 --s 451 --q 5``
+`cardo2`: ``Circle of the Primeval Druid Subclass Stat Card: A card detailing the stats and appearance of the ancient, powerful subclass character. --q 2 --c 20``
+`cardo3`: ``Subclass Stat Card: A card detailing the stats and appearance of the ancient, powerful subclass fantasy character. --q 2 --c 30 --s 500``
+`cardo4`: ``Subclass Card: A card detailing appearance of a powerful fantasy character. --q 2 --c 30 --s 500``
+`hypop`: ``various soft colors of paint, in the style of monumental ink paintings, fantasy mysterius style, made of wire, pointillist precision, hyper-realistic pop``
+`portax`: ``portrait, abstract, oil painting, colorful``
+`portub`: ``,a woman in black dress posing with a large, in the style of terry o'neill, soft-focus portraits, pegi nicol macleod, elisabeth sonrel, crisp and clean look, candid --style raw --s 250``
+`impostor`: ``, thick impasto oil paint in the style of John Duncan Fergusson``
