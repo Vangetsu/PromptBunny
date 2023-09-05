@@ -168,7 +168,7 @@
 `inter`: ``Alan Lee and Giger and Vermeer and Bastien Lecouffe-Deharme, Cybernetic Engineer Starship Pilot, Armor, hyperrealism, surrealism, vibrant interplay of light and shadow  --c 11 --s 333``
 `inter1`: ``Alan Lee and Giger and Vermeer and Bastien Lecouffe-Deharme, Armor, hyperrealism, surrealism, vibrant interplay of light and shadow  --c 11 --s 333``
 `tia`: ``tiamat actress with an elegant dress walking on a golden background, in the style of photorealistic cityscapes, superheroes, 32k uhd, dark turquoise, dc comics, exquisite clothing detail --s 750 --style raw``
-`relo`: ``:: a realistic illustration, in the style of zena holloway, detailed character expressions, dmitri danish, playful character designs, duckcore, chip zdarsky, charming characters  --upbeta   --s  250``
+`relo`: ``,hasselblad-like quality ,in the style of unreal engine 5, highly detailed realism, close up, exquisite realism,in the style of vray tracing, exotic realism, 32k uhd, delicate modeling, rim light,world-class design``
 `dighq`: ``Digital high end art, magic in hand, living eyes, perfect face, perfect skin, in the style of Maciej Kuciara, fantastic quality art, realistic result, fantasy, random angle, spiritual  --s  850   --q  5   --w  3   --v  niji   --upbeta``
 `dighq1`: ``Digital high end art, warcraft dranei, magic in hand, chrome and liquid, living eyes, perfect face, perfect skin, horns, long ears, in the style of Maciej Kuciara, fantastic quality art, realistic result, elf and fantasy, random angle, spiritual  --s  850   --q  5   --w  3   --v  niji   --upbeta``
 `cult`: ``female cultist in the temple, with particles effects, hearthstone fantasy art style``
@@ -527,3 +527,117 @@
 `wetplate`: ``wet plate photograph, in the style of depiction of rural life, farm in the background, daria endresen, portrait, photo, dof stylize 600``
 `clipo`: ``clipart supercar, drawn style, pale green background, smoke clouds emitting from tires, small sparks under car``
 `inspo`: ``Street Photoshoot, Luna moth inspired fashion influencer outfit``
+`artology`: ``Minimalist astronomy art, silver foil on textured vantablack paper  --ar  2:3   --s  55   --v  5.1``
+`artology1`: ``Minimalist art, white on textured vantablack paper``
+`inspo2`: ``inspired creative fashion inspo, shot with hasselblad, highly detailed, macro clarity, crisp, gigapixel, intricate``
+`gib`: ``Studio Ghibli style, k-pop version of Irish sidhe legends The Tuatha Dé Danann, photorealistic, ultra photorealistic, super detailed, intricate details, 8k, ultra realistic fine details, futuristic, shutter speed 1/200 s, ISO 100, shot on Canon EOS R with lens 50mm f/ 1.8, f/2.2 aperture, sci-fi film, excellent color palette, realistic chiaroscuro, --niji 5``
+`absurd`: ``who let eagles into the k-pop police station``
+`inspo3`: ``inspired creative fashion inspo professional stuido photo, shot with hasselblad, highly detailed and clear image``
+`cartox`: ``cartoon wearing raincoat  lost in a forest in the rain. Photograph. Canon DSLR. Tilt - shift.``
+`vektor`: ``simple vector style ,doodly``
+`tdelay`: ``, time delay method, stippling, 2K, hyper quality``
+`halfface`: ``Portrait of a woman with her face clearly divided in the centre: the right side shows boredom, while the left side reveals deep sadness. A representation of depression. Gumoil print. Roger Ballen style --style raw --s 500 --c 30``
+`naive`: ``Create a character of an angel in a naive art style. Image: An angelic figure with simplistic and charming features, standing on fluffy clouds. The angel has a round face with rosy cheeks, wide innocent eyes, and a gentle smile. Their wings are depicted as simple, bold shapes with vibrant colors, adding a touch of whimsy. The angel is adorned in a flowing robe, adorned with basic patterns that give it a childlike quality. Rays of light emanate from their body, creating a sense of divine radiance. The overall style exudes a sense of innocence and joy, capturing the essence of naive art``
+`matrix`: ``The Matrix``
+`yukio`: ``low angle shot, Photography, ethereal beautiful, detailed facial features, desire, intense, allure, breath taking, blackish blue hair, high fashion portrait photography, utilizing vray tracing for extraordinary realism, unreal engine 5``
+`delac`: ``Lovely Thick Impasto painting in the style of Eugene Delacroix and ANselm Kiefer --s 250 --w 10 --ar 4:5 --c 12``
+`abso`: ``isometric, ancient, magic tree, The Iron Oath game art style, game concept, top down graphic style, abstract, sketch``
+`hirs`: ``drawn by Al Hirschfeld minimal``
+`silo`: ``k-pop silhouette figure on the ios background gradient striped, 4k, uhd, stunning visual --ar 7:10``
+`multilayero`: ``, multilayered realism, insane details, captivating gaze,soft+gritty focus, photorealistic``
+`classk`: ``. intaglio ink over photospread - world-class design - agency directed``
+`wtfo`: ``A photograph of a beautiful red-haired female student at a magical academy, immersed in her studies amidst the enchanting atmosphere of an ancient library filled with spellbooks and magical artifacts. The young student is dressed in the academy's traditional robes, adorned with the emblem of her house, as she intently reads a dusty tome. The photograph is beautifully composed using a Nikon D850 DSLR camera and a Nikkor 35mm f/1.8 lens, known for its sharpness and ability to render rich, vibrant colors. The camera settings are carefully chosen to capture the magical essence of the scene: an aperture of f/2, ISO 800, and a shutter speed of 1/60 sec, allowing the subtle, flickering glow of enchanted candles to illuminate the library's mysterious depths. The composition thoughtfully employs a shallow depth of field, placing the focus on the student while the library's ancient, towering bookshelves fade softly into the background, adding a sense of wonder and intrigue to the scene. The photograph is further enhanced by the delicate play of light and shadow cast by the candles, casting a warm glow that highlights the student's determination and passion for her magical studies of k-pop. --ar 5:4 --s 999``
+`wtfo1`: ``A photograph of a beautiful blonde female student at a magical academy, immersed in her studies amidst the enchanting atmosphere of an ancient library filled with spellbooks and magical artifacts. The young student is dressed in the academy's traditional robes, adorned with the emblem of her house, as she intently reads a dusty tome. The photograph is beautifully composed using a Nikon D850 DSLR camera and a Nikkor 35mm f/1.8 lens, known for its sharpness and ability to render rich, vibrant colors. The camera settings are carefully chosen to capture the magical essence of the scene: an aperture of f/2, ISO 800, and a shutter speed of 1/60 sec, allowing the subtle, flickering glow of enchanted candles to illuminate the library's mysterious depths. The composition thoughtfully employs a shallow depth of field, placing the focus on the student while the library's ancient, towering bookshelves fade softly into the background, adding a sense of wonder and intrigue to the scene. The photograph is further enhanced by the delicate play of light and shadow cast by the candles, casting a warm glow that highlights the student's determination and passion for her magical studies of k-pop. --ar 16:9 --s 999``
+`vekko`: ``In a captivating fusion of cultures a mesmerizing K-pop performance unfolds amidst a backdrop of vibrant adire tapestries while a suspended Hannya mask hovers in the periphery encapsulating both the modern energy and ancient mystique of the scene, in the style of gritty realism, in the style of psychadelicpunk, in the style of pencil sketch, in the style of superhero comics, in the style of shattered vector painting``
+`viralo`: ``viral photo, The fusion we didnt know we needed``
+`etcho`: ``in the style of S R Badmin black & white etching``
+`topex`: ``water flower light screenshot topeng in a surreal room, in the style of colorful absurdism, use of precious materials, mandy disher, luminous spheres, white and pink, colorful moebius, colorful still lifes``
+`flatoc`: ``flat design poster style by Erté and Jack Hughes of a poster illustration on a pure white background of an beautiful dancer in a long beautiful flowing gown made of colorful adire patterned silk dancing a Martha Graham modern ballet, 3-color poster print elegant, refined, beautiful in an active dance pose, high resolution, 8k, self-contained design, whole design fits on the artboard::2 colored background, text, cropping, touching edges, running off side, high heels, shadows, background gradient, African, asian::-1``
+`nudi`: ``nudibranch::1.5 translucent alien by jean Leon gerome, Norman Rockwell, naoto hattori --c 15 --q 1``
+`nudi1`: ``translucent alien by jean Leon gerome, Norman Rockwell, naoto hattori --c 15 --q 1``
+`bass`: ``by sparth and Lillian Bassman``
+`topo`: ``topeng minimalist portrait, by Junji Ito and andrew Salgado``
+`toto`: ``stylized girl with tattoos, in the style of vibrant color gradients, anime, crimson and black, frontal perspective, colorful portraits, manticore, transparent layers  --s  750``
+`kokori`: ``minimalist portrait, by Paul Gaguin and Miho Hirano``
+`dadada`: ``surreal. Renaissance illuminate cartographic map. Destination is clearly marked but there the writing can’t be read. painting of technology vs. nature, abstract, horror, mythical, ethereal, intricate, elaborate, hyperrealism, hyper detailed, strong expressiveness and emotionality, by Ayami Kojima, Tom Bagshaw, Yanjun Cheng, Artgerm, wlop, Krenz Cushart, Gweiz, Thomas Kinkade, Gerald Brom, cinematic lighting, visual clarity, 200mm, UHD, 32k, 16k, 8k, 3D shading, Tone Mapping, Ray Tracing Global Illumination, Diffraction Grating, Crystalline, Lumen Reflections, Super-Resolution, gigapixel, color grading, retouch, enhanced, PBR, Blender, V-ray, Procreate, zBrush, Unreal Engine 5, Cinema 4D, ROMM RGB, Adobe After Effects, 3DCG, VFX, SFX, FXAA, SSAO, --ar 16:9``
+`kodako`: ``,headshot close up, kodak ultra f9``
+`lands`: ``landscape in the style of ken kelly``
+`lands1`: ``landscape in the style of richard corben``
+`lands2`: ``::2 japanese scenic watercolors, cel-shading, post-apocalyptic, Brutalism, nowpunk, Butterfly Lighting, Tilt-Shift Photography, 35mm lens, Rule of Thirds, Flash --ar 5:3 --s 50``
+`lands3`: ``landscape in the style of Clyde Caldwell``
+`wulfe`: ``watercolor crystal painting red crystal, wulfenite crystal, pink rose quartz painting, in the style of dark orange and light cyan, dreamlike illustration, archaeological object, gigantic scale, celestialpunk, faded palates, tooth wu``
+`arieso`: ``,art of a giant lovecraft creature in the forest, in the style of martin ansin, vanitas,heroic, aries moross, hyper-realistic water``
+`vladi`: ``wulfenite princess, deep space, nebula, surreal close-up shot photography by vladimir kush``
+`jess`: ``woman, cracked, art by Yoji Shinkawa, Jessica Rossier, Glen Keane, --ar 16:10``
+`forper`: ``Enki Bilal, Speckle Noise Forced perspective Digital painting art 4k --ar 5:3 --s 50``
+`najjar`: ``voxel wulfenite room, octane render, vray render, in the style of raphael lacoste, serge najjar, monolithic structures, soft lines and shape --ar 5:3 --s 50``
+`najjar1`: ``,octane render, vray render, in the style of raphael lacoste, serge najjar, monolithic structures, soft lines and shape --ar 5:3 --s 50``
+`femina`: ``Feminae Quantam Unitis , wulfeniteier --ar 12:8 --s 693``
+`jagged`: ``Under a tropical downpour, a white-haired male cyborg on a new planet in the jungle mines huge shining wulfenite crystals in the excavation, with water drops in the background, in the style of realistic lighting with chiaroscuro, detailed facial features, marcin sobas, jagged edges, flickr, tomás saraceno, intensity close-up, 1/200 sec, ISO100, shot on a Canon EOS R at 50mm f/1.8, f/2.2, sci-fi film, m42 mount``
+`jagged1`: ``,in the style of realistic lighting with chiaroscuro, detailed facial features, marcin sobas, jagged edges, flickr, tomás saraceno, intensity close-up, 1/200 sec, ISO100, shot on a Canon EOS R at 50mm f/1.8, f/2.2, sci-fi film, m42 mount``
+`stillx`: ``cinematic still, sci-fi, mysterious hooded figure standing in the mysterious setting, skulls, 8k, canon eos, 45mm lens, dynamic lighting, depth of field, splashes of thick flowing mabled colorful paint``
+`stillx1`: ``cinematic still, sci-fi, mysterious hooded figure standing in the desert, wulfenite skulls, 8k, canon eos, 45mm lens, dynamic lighting, depth of field, splashes of thick flowing mabled colorful pain``
+`peni`: ``pen and ink illustration, rare book, limited edition --c 20``
+`superox`: ``superhero girl --ar 2:3 --niji 5``
+`etern`: ``Eternal torment is cultivated by those who abide with lies. Ingratitude clothes and indwells them. They reject moral responsibility with scorn. In cowardice they live void of meaning. Even in suffering, their ungratefulness will consume them. Symbolist painting, iconography, surrealism, wulfenite``
+`fanta`: ``fantasy character concept portrait,detailcore,ultra-realism``
+`paranor`: ``8k resolution highest photographic quality ultra clarity and sharpness detailed skin tone authentic realistic psychic female halloween third eye spiritual paranormal``
+`hbo`: ``cinematic production still, medium shot angle from 45 degrees, in the style of the HBO show Euphoria --ar 2:1``
+`intensex`: ``, flickr, polka dot madness, misty gothic, extreme angle, tokina at-x 11-16mm f/2.8 pro dx ii, close-up intensity``
+`natur`: ``Photo de face dans un manoir en 2023, d'un Aventurière intrépide voyageant à travers le monde pour écrire des récits exotiques, Élise Dupont est une femme aux cheveux auburn coiffés en chignon. Elle porte une broche en diamant et une robe bleu pastel ornée de dentelle, accentuant sa grâce naturelle``
+`blendo`: ``blender rendering, ultra-sharp Intricate fine details, UHD, HDRI, post-processing``
+`tenebrism`: ``:: psychological horror, moody cinematic shot in the style of tenebrism and Stephen King``
+`patt`: ``Surreal, Futuristic Ancient Peacock Cyborg Shaman, Textured Patterns, Impossible Depth, Ralph Steadman, peacock motifs, Moebius, Soulages, inner-illuminated fused glass --c 15 --s 222``
+`copen`: ``A beautiful coloured pencil drawing of a pretty young flirty captivating enigmatic goddess in a crop top and pants, square neckline long-sleeved top, tight high-waisted pants, Spanish ethnicity, delicate, highly detailed``
+`maskolog`: ``haunted mask :: begotten, dark art``
+`fanta1`: ``Serpens Igniferum Nixus Fractura , fantasy concept art character design, flickr, polka dot madness, misty gothic, extreme angle, tokina at-x 11-16mm f/2.8 pro dx ii, close-up intensity``
+`fanta2`: ``,fantasy concept art character design, flickr, misty gothic, extreme angle, tokina at-x 11-16mm f/2.8 pro dx ii, close-up intensity``
+`kotaro`: ``by kotaro iwate, in the style of charlie bowater, strong facial expression, loose gestures, close up, genderless, michael malm``
+`cinoil`: ``,cinematic oil photo, hyperdetailed, john byrne, comic book``
+`garwar`: ``,caricature, Garden Warfare style``
+`layo1`: ``layered paper art, bold wood montage, splatter glitchcore, Anna Maria Garthwaite --style raw``
+`dana`: ``by danai3x, in the style of aggressive digital illustration, self-portrait, gothcore, close up, loose gestures``
+`blacko`: ``black and white abstract of a black man and woman face shaped like an exquisite artifact``
+`gamo`: ``Hyperrealism, Gaming Artwork, League of Legends, Ultra High Detail, Dynamic Action, Maniacal Grin, Braided Blue Pigtails, Bright Turquoise, Punk Style Attire, Pow-Pow & Fishbones, Hextech Tattoos, Piltover Cityscape, Dramatic Shadows, High Saturation, Chaotic, Low Angle, Rough Texture, Diagonal Composition, Shallow, Life-Size, High Contrast, Night, Clear Sky, Hidden in the Detail, Ornate Steel Frame, Oak``
+`gamo1`: ``Precisionism, Game Art, League of Legends, Pinpoint Detail, Sudden Turn, Surprised Blink, Flying Blue Pigtails, Wide Open Turquoise, Battle Gear, Animated Tattoos, Exploding Piltover Workshop, Backlit, Neon Colors, Exciting, Dynamic Perspective, Metallic Texture, Asymmetrical Composition, Wide, Toy-Scale, Extreme Contrast, Sunset, Clear, Signature on Rocket, Futuristic Holographic Frame, Glass``
+`gamo2`: ``Superrealism, Fan Art, League of Legends, Maximal Detail, Mid Laugh, Exultant Expression, Tousled Blue Pigtails, Gleaming Aquamarine, Tattered Carnival Outfit, Switcheroo!, Techmaturgical Ink, High Key Lighting, Wild Colors, Frenetic, Worm's Eye View, Smooth Texture, Laugh, Central Composition, Medium, True to Scale, Balanced Contrast, Midday, Sunny, Artist's Initials in Graffiti, Vibrant Graffiti Frame, Concrete,Force of Anarchy, Joy in Chaos``
+`gamo3`: ``Photorealism, Concept Art, League of Legends, Microscopic Detail, Ready to Strike, Mischievous Smirk, Unruly Blue Hair, Sparkling Cyan, Street Urchin Clothes, Zapper, Runes of Zaun, Zaun Undercity, Spotlight, Muted Tones, Mysterious, Bird's Eye View, Gritty Texture, Weapons, Rule of Thirds, Deep, Larger than Life, Low Contrast, Dusk, Rainy, Watermark, Minimalist Black Frame, Iron,``
+`gamo4`: ``Cinematic Realism, Character Portrait, League of Legends, Granular Detail, Wistful Staring, Contemplative Look, Loose Blue Hair, Reflective Teal, Casual Attire, Mini-Guns Holstered, No Tattoos, Empty Street of Piltover, Low Key Lighting, Pastel Shades, Melancholic, Eye-Level, Soft Texture, Eyes, Golden Ratio, Narrow, Actual Size, Natural Contrast, Dawn, Foggy, Signature on Pendant, Simple White Frame, Pine``
+`penonk`: ``::1.5, black and white, pen and ink drawing --ar 2:3``
+`ilusto`: ``,flat illustration, warm colors, bright background, ultra sharp, super realisitc, high-end photography --ar 3:2``
+`misto1`: ``ralph mcquarrie sci-fi inspired ocra misty morning lighthouse built on top of crashed space ship. woman on hover-bike in silhouette by Josh Adamski and zhang kechun and Lillian Bassman``
+`misto`: ``by Josh Adamski and zhang kechun and Lillian Bassman``
+`misto2`: ``ocra misty morning lighthouse by Josh Adamski and zhang kechun and Lillian Bassman``
+`misto3`: ``ralph mcquarrie sci-fi. ocra misty morning lighthouse and woman on bike in silhouette by Josh Adamski and zhang kechun and Lillian Bassman``
+`misto4`: ``ocra misty morning lighthouse and woman on bike in silhouette by Josh Adamski and zhang kechun and Lillian Bassman``
+`misto5`: ``dancing in sublimely surreal color mist by Josh Adamski and zhang kechun and Lillian Bassman``
+`misto6`: ``sublimely surreal color mist by Josh Adamski and zhang kechun and Lillian Bassman``
+`misto7`: ``sublimely surreal by Josh Adamski and zhang kechun and Lillian Bassman``
+`misto8`: ``by Josh Adamski and zhang kechun and arthur hacker``
+`misto9`: ``by Josh Adamski and zhang kechun``
+`popop`: ``an image of close-up, in the style of pop art iconography, roy lichtenstein, detailed comic book art with halftone dot shadow, trompe-l'œil illusionistic detail, bold color, animated gifs --c 7 --s 700``
+`magicodeer`: ``beautiful bright green yellow and pink magic deer, decorated with gold shiny ornaments, long wavy tail, radiating light and bright, in style of fantasy book, children book character, standing in the magic fantasy colorful forest``
+`unspeak`: ``An unspeakable emotion, Side view, slice perspective, abstract expressionism, 32K, hyper quality``
+`edgyo`: ``a drawing of a girl wearing black with makeup, in the style of edgy, monochrome portraits, zbrush, anime-inspired characters, cut/ripped, realistic oil portraits, gothcore``
+`illux`: ``a greek goddess dressed up in armor, in the style of graphic novel inspired illustrations, gray and cyan, meticulous portraiture, blink-and-you-miss-it detail, d&d, whimsical cartoonish characters, sepia tone``
+`illux1`: ``a cartoon illustration of a warrior lady holding a spear, in the style of light cyan and dark beige, realistic hyper-detailed portraits, blink-and-you-miss-it detail, snailcore, grisaille, whimsical children's book illustrator, gray and bronze``
+`overo`: ``Overall, aim to capture a transcendent sense of awe, wonder, and imagination in the vivid details. The goal is to transport viewers into an exhilarating cinematic vision brimming with atmosphere.``
+`graclass`: ``Describe the style and composition as if it were a grand classical painting, statue, or film scene framed to amplify the majesty.``
+`ficwork`: ``If based on a fictional work, reference its major themes, values, and any profound meanings that resonate.``
+`vibof`: ``The color palette can be more vibrant and saturated, even embellished with effects like lens flares and light rays.``
+`lighox`: ``Lighting can be dramatic and operatic, whether illuminating key figures and details or obscured through shadow and silhouettes.``
+`archoxi`: ``For characters, use archetypes and poses that convey power and larger-than-life heroism. Outfits could reference classical mythological looks.``
+`mytoxi`: ``Incorporate visual elements that suggest mythology, legend, and importance like banners, artifacts, thrones, or transformational moments.``
+`compoxi`: ``Use compositional techniques like low angles, aerial perspectives, and wide panoramic framing to convey scope and grandeur.``
+`dramox`: ``Focus on creating a strong sense of drama, high stakes, and importance. Describe the emotion, mood, and atmosphere using intense adjectives.``
+`vividox`: ``Use vivid, cinematic language to describe the scene in immersive detail. Capture the grand, sweeping scale with words like "majestic", "titanic", "colossal".``
+`serio`: ``Depict as a visionary Pop Art serigraph, bold Ben-Day dot patterns and bright colors reinventing the image with Andy Warhol's postmodern energy.``
+`metaox`: ``Depict as a metaphysical platinum print photograph, the image solarized and developed using exotic chemistry, showing new tonal dimensions normally invisible.``
+`nijnij`: ``,4k, ultra realistic, Profile view, View from a distance, ultra realistic face   --iw  2   --niji``
+`nijnij1`: ``A woman in special forces black dress, very short vibrant fine black hair, powerful determined gaze, white pupils, realistic portrait, 4k, In a room, at night  --iw  2   --niji``
+`nijnij2`: ``A woman in special forces black dress, very short vibrant fine black hair, powerful determined gaze, white pupils, realistic portrait, 4k, In a room, at night --iw 2 --niji --seed 531537360``
+`dene1`: ``cinematic, up-close woman face with intricate dot-painting pattern, transparent background, png, accent lighting, dotted, photorealistic detail, multi-coloured minimalism``
+`alieno1`: ``inspired alien with textured skin ::3 smooth elongated head and pronounced hyper huge wet sad eyes ::5 milky color snake skin texture, pointy ears, tentacles, small nose, huge eyes ::4 Instax, high key, Split Lighting, pastel colors ::4 cinematic scene, dynamic scene ::3 beams of light through smoke, light cinematic fog, glow, light accents, light brush, hypertexture, hyperdetail, Photorealistic ::3 35mm, F/1.8 ::2 32K ::2  --s 750``
+`alieno2`: ``Futuristic funky bohemian female elf warrior in a casual setting, in the style of Sergio Toppi & Moebius, hyperrealistic, textured depth, smiling expression, candid shot  --c  15   --s  500   --ar  2:3``
+`alieno5`: ``strange creature that was made with a computer as a hobby, in the style of realistic yet ethereal, goblin academia, meticulous detailing, sony fe 85mm f/1.4 gm, feminine portraiture, tanbi kei, meticulous linework precision``
+`borsix`: ``by flora borsi and gareth pugh``
