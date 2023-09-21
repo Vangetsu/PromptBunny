@@ -1,0 +1,72 @@
+I would like you to help me generate detailed textual descriptions (to be referred to as 'prompts') that can be used as inputs to an AI art program that will accept a 'prompt' as input, parse the contents of the prompt, and generate a visual representation of that content. 
+
+The better and more descriptive the prompt content we provide as input, the better (higher fidelity, richer visual experience) output we will get back. We should assume that the art program has very little knowledge, therefore our prompts should be detailed not only about our subjects, but about all aspects of the desired scene - colors, materials, background objects, supporting details, emotive style, movement, and all other aspects of visual design.
+
+Today we are going to focus on imagery showing the clash between extreme weather events and modern cities.
+
+Step 1:
+	Ask the user: "Please describe the disaster and location you have in mind. For example: 'Hurricane in San Francisco'."
+	If the user gives a multi-part answer that includes time, we adapt and skip the next step.
+
+Step 2 (if needed):
+	Ask the user: "Would you like imagery of the event as it approaches, during, or its aftermath?"
+
+	Feedback/Confirmation:
+		Summarize the details for the user and confirm this is the imagery they want to see.
+		If user confirms, proceed, else loop back.
+
+Step 3:
+	Ask the user: "Now, can you describe a focal point or key scene for the artwork? For instance, 'standing on the Golden Gate Bridge looking at the city skyline'. If you're unsure, I can suggest some for you."
+	If the user asks for suggestions, provide options based on the location they've mentioned. If the location is unknown to you, generate some random ideas.
+
+	Feedback/Confirmation:
+		Use the inputs together with your knowledge of cinematography to devise a descriptive and literary summary of the details. Present to the user and ask if they would like any modifications. If they do want changes, please incorporate their guidance and re-present the result. Continue this loop until you get confirmation from the user that they would like you to proceed. If you have to loop more than once, please offer some suggestions to the user.
+
+
+Step 4:
+	Once you have confimation that user is happy with the input, hold the response in a variable [Subject Description] and proceed to determining how to best express the user's input across multiple dimensions. Indicate to the user that you are devising several prompts for their review.
+
+Step 5:
+	Select the most appropriate item from the given list for each of the following. If there is not a most appropriate selection, then choose one at random:
+
+	[Photography Theme or Style]:
+		This element should describe the overall type of image output desired. Some potential choices include: Glamor Shot, Street Style Photography, Portrait, Candid Photo, Micro Photography, Underwater Photography, Nature Photography, Lifestyle Photography, Catchlight Photography, Product Photography, Photojournalism Photography, Associated Press Photography, Catalogue Photography, Documentary Photography, Tilt Shift Photography, Food Photography, National Geographic Nature Photography, Unsplash Photography, Film Grain Photography, Time-Lapse Photography, Motion Photography, High-speed Photography, Stop-Motion Photography, Filmed Action Scene Photography
+
+	[Image Angle]: 
+		This element captures the relationship of the camera to the subject. Potential options include: Close up, 3/4 Profile, Side Profile, Back Angle, Behind Shot, Rear View, Wide Angle, Fish-eye, Eye-level Shot, Waist-level Shot, Low Camera Angle, High Camera Angle, Overhead Shot, Knolling Shot, Drone Shot, Aerial Shot, Satellite Angle
+
+	[Image Focus]:
+		This element tells us where the camera is focused within the scene. Potential options include: Shallow Depth-of-Field, Deep Depth-of-Field, Defocused, Rack Focus, Soft Focus, 
+
+	[Lighting]: 
+		This element tells us how the scene is lit and what kind of shadows should be rendered. Potential options include: Global Illumination with Accent Lighting, 
+
+	[Time of Day]: This element modifies the overall lighting of the scene and contributes to the 'vibe'. Options inlclude:
+		Sunrise, Mid-morning, High-noon, early afternoon, late afternoon, sunset, golden hour, gloaming hour, twilight, evening, midnight, pre-dawn
+
+
+	[Camera Type]: This element describes what kind of camera is being used to capture the image. Choices inlcude: DSLR, 35mm, 70mm, IMAX, Analog, Vintage
+
+	[Description of Realism]: Lifelife, Graphic, Vivid, True-to-life, Photographic, Faithful, Believable, Pictorial, Picturesque
+
+	[Opening Param]: This element contains the keyword that the art program will recognize and use to process the request. For our purposes, all prompts should start with '/imagine prompt: '
+
+	[End Parameters]: 
+		We will need to include three different parameters to close out the prompt.
+			The first is 'aspect ratio' which describes the orientation and sizing of the imagery. Should be expressed as '--ar X:Y ' where X and Y are whole numbers (no decimals). X represents the x-axis or the horizontal element, while Y represents the Y-axis or vertical element. Choose a ratio that best features the scene in our prompt.
+			
+			The second is 'stylize' expressed as ' --s Z' where Z is a number between 100 and 1000 with higher values representing a more artistic representation. 
+
+			The third is 'style' expressed as '--style raw' and should be included whenever the prompt is more than 75 words in length.
+
+		Assemble the end parameters together with a space in between, such as: ' --ar 84:111 --s 1000 --style raw '
+
+Step 6: 
+	Now that we have all the elements defined, please construct our prompt using the following general formula:
+		[Opening Param] [Photography Theme or Style] of [Subject Description], using a [Camera Type] and [Image Angle] + [Image Focus] + [Lighting] + [Weather or Time of Day] + [Camera Type] + [Description of Realism] + [End Parameters] 
+
+Step 7:
+	Please generate three prompts using this guidance.
+	
+Step 8:
+	After presenting the three prompts, ask the user if they would like you to modify any of the provided prompts, or if they would like to start with a new example. If they want to modify, ask them what aspect should be changed. If they want to start a new example, return to the start of the script.
